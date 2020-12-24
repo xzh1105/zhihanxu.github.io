@@ -7,7 +7,7 @@ I will join the University of Pennsylvania as a master student of Electrical Eng
 
 During my undergraduate, I was fortunate to work with [Dr.Qammer Abbasi](https://www.gla.ac.uk/schools/engineering/staff/qammerabbasi/) and [Prof.Muhammad Imran](https://www.gla.ac.uk/schools/engineering/staff/muhammadimran/).
 
-### Publications
+### Publications:
 
 IoT Enabled Smart Security Framework for 3D Printed Smart Home  
 **Zhihan Xu**, Shuja Ansari, Amir M. Abdulghani, Muhammad Ali Imran, Qammer H. Abbasi  
@@ -15,7 +15,7 @@ IoT Enabled Smart Security Framework for 3D Printed Smart Home
 
 High- and Low-Level Feature Enhancement for Medical Image Segmentation  
 Huan Wang, Guotai Wang, **Zhihan Xu**, Wenhui Lei, Shaoting Zhang  
-2019 Machine Learning in Medical Imaging (MLMI)
+2019 International Workshop on Machine Learning in Medical Imaging (MLMI)
 
 ### Education:
 
