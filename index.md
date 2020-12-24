@@ -1,4 +1,4 @@
-## About me
+## Zhihan Xu
 
 I am currently a research assistant in [Shanghai Qi Zhi Institute](https://iiis.tsinghua.edu.cn/sqi/), advised by [Prof.Li Jiang](http://cs.sjtu.edu.cn/~jiangli/). My research interests span novel computing systems and circuit design.
 
@@ -18,5 +18,5 @@ Huan Wang, Guotai Wang, **Zhihan Xu**, Wenhui Lei, Shaoting Zhang
 
 ### Education:
 
-B.Eng. Electronic Information Engineering (Dual-Degree), University of Electronic Science and Technology of China, Chengdu, China (2016-2020)
+B.Eng. Electronic Information Engineering (Dual-Degree), University of Electronic Science and Technology of China, Chengdu, China (2016-2020)  
 B.Eng. Electronics and Electrical Engineering (Dual-Degree), University of Glasgow, Glasgow, UK (2016-2020)
