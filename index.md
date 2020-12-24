@@ -1,8 +1,6 @@
-## Welcome to My Home Page
+## About me
 
-You can use the [editor on GitHub](https://github.com/xzh1105/zhihanxu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently a research assistant in [Shanghai Qi Zhi Institute](https://iiis.tsinghua.edu.cn/sqi/), advised by [Prof.Li Jiang](http://cs.sjtu.edu.cn/~jiangli/). My research interests span novel computing systems and machine learning accelerators.
 
 ### Markdown
 
