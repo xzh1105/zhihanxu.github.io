@@ -2,6 +2,4 @@ theme: jekyll-theme-cayman
 title: [Welcome]
 description: [This is a place to share my research and life :)]
 
-github:
-  zip_url: http://example.com/download.zip
-  another_url: another value
+url: https://www.baidu.com/
