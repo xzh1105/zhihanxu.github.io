@@ -9,12 +9,10 @@ During my undergraduate, I was fortunate to work with [Dr.Qammer Abbasi](https:/
 ### Publications
 
 IoT Enabled Smart Security Framework for 3D Printed Smart Home
-
 **Zhihan Xu**, Shuja Ansari, Amir M. Abdulghani, Muhammad Ali Imran, Qammer H. Abbasi
 2020 IEEE International Conference on Smart Internet of Things (SmartIoT)
 
 High- and Low-Level Feature Enhancement for Medical Image Segmentation
-
 Huan Wang, Guotai Wang, **Zhihan Xu**, Wenhui Lei, Shaoting Zhang
 2019 Machine Learning in Medical Imaging (MLMI)
 
