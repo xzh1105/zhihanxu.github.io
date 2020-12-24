@@ -1,5 +1,6 @@
 ## Zhihan Xu
-![pic](D:\照片\DSC06380.jpg)
+![pic](https://user-images.githubusercontent.com/76511926/103086889-cdc3ef80-4620-11eb-8f62-18264bdaae73.JPG)
+
 I am currently a research assistant in [Shanghai Qi Zhi Institute](https://iiis.tsinghua.edu.cn/sqi/), advised by [Prof.Li Jiang](http://cs.sjtu.edu.cn/~jiangli/). My research interests span novel computing systems and circuit design.
 
 I will join the University of Pennsylvania as a master student of Electrical Engineering in the ~~2020 fall~~ 2021 fall.
