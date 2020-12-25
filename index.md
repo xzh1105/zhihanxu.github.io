@@ -1,5 +1,5 @@
 ## Zhihan Xu
-![pic](https://user-images.githubusercontent.com/76511926/103127533-1fc24f00-46cd-11eb-8e29-c9d955a8cf62.JPG)
+![pic](https://github.com/zhihanxu/zhihanxu.github.io/blob/gh-pages/pic.JPG)
 
 I am currently a research assistant in [Shanghai Qi Zhi Institute](https://iiis.tsinghua.edu.cn/sqi/), advised by [Prof.Li Jiang](http://cs.sjtu.edu.cn/~jiangli/). My research interests span novel computing systems and circuit design.
 
