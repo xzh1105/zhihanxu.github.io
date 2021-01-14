@@ -7,7 +7,7 @@ I will join the University of Pennsylvania as a master student of Electrical Eng
 
 During my undergraduate, I was fortunate to work with [Dr.Qammer Abbasi](https://www.gla.ac.uk/schools/engineering/staff/qammerabbasi/) and [Prof.Muhammad Imran](https://www.gla.ac.uk/schools/engineering/staff/muhammadimran/).
 
-[Research](./another-page.html).
+[Research](./another-page.yml).
 ### Publications:
 
 IoT Enabled Smart Security Framework for 3D Printed Smart Home  
