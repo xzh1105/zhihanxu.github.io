@@ -1,10 +1,13 @@
 ---
 layout: default
-title: Research page
+title: Paper Reading
+description: Summarize main contributions
 ---
 
-## Research page
+## Quantization
 
-_yay_
+**[ECCV'18] LQ-Nets: Learned Quantization for Highly Accurate and Compact Deep Neural Networks**
+
+
 
 [back](./)
